@@ -1,14 +1,13 @@
 # mainflow_python_internship
- Task 1: Basic Python programs 
-
  Overview  
-This repository contains my implementation for Task 1 of my python developer main flow internship. The task focused on understanding and working with Python's basic operations, loops , lis methods etc 
+This repository contains my implementation for Tasks of my python developer internship in main flow . The task focused on understanding and working with Python's basic operations, loops , lis methods etc 
 - Lists  
 - operations
 - loops
+to design algortithms,and develop various python programs.
 
- 📝 Task Description  
-The objective of this task was to design algorithms,string manipulation and logical reasoning.  
+ 📝 Tasks Description  
+The objective of this task was to design algorithms,string manipulation and logical reasoning,problem solving,graph theory etc.  
 
 Outcomes:  
 - Improved understanding of Python's basic operations and their applications in different programs.  
