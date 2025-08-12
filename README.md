@@ -1,6 +1,6 @@
 # mainflow_python_internship
  Overview  
-This repository contains my implementation for Tasks of my python developer internship in main flow . The task focused on understanding and working with Python's basic operations, loops , lis methods etc 
+This repository contains my implementation for Tasks of my python developer internship in main flow . The task focused on understanding and working with Python's basic operations, loops , list methods etc 
 - Lists  
 - operations
 - loops
